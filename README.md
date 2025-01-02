@@ -7,7 +7,6 @@
 
 - 🔭 I’m working at [Checkout Charlie GmbH](https://www.checkout-charlie.de/)
 
-- 🌱 I’m currently learning **Nest.js**
 
 - ⚡ Fun fact **I am into everything vintage and love to play golf ⛳️**
 
