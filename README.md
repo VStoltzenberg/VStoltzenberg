@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">Passionate Head of Engineering at Checkout Charlie</h3>
+<h3 align="center">Passionate Head of Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vstoltzenberg&label=Profile%20views&color=0e75b6&style=flat" alt="vstoltzenberg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vstoltzenberg" target="blank"><img src="https://img.shields.io/twitter/follow/vstoltzenberg?logo=twitter&style=for-the-badge" alt="vstoltzenberg" /></a> </p>
 
-- 🔭 I’m working at [Checkout Charlie GmbH](https://www.checkout-charlie.de/)
 
 
 - ⚡ Fun fact **I am into everything vintage and love to play golf ⛳️**
